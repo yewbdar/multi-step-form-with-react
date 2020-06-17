@@ -7,6 +7,8 @@ export default function Success() {
             <MuiThemeProvider>
                <React.Fragment>
                    <AppBar title='Your information Successfuly added '/>
+                   <h1>Thank you for your Submission</h1>
+                   <p>You will get an email with further instruction </p>
                 </React.Fragment>
                 </MuiThemeProvider>
         </div>
